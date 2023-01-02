@@ -22,5 +22,5 @@ Analyze FitBit Fitness Tracker App data to gain insights into how consumers are 
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 ### Data Set:
-The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit).S
+The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit)
  
